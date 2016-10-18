@@ -1,0 +1,6 @@
+O crawler faz isso isso e aquilo
+
+
+Funcao de transcrever termos de pesquisa
+
+ordenar listas por num de acessos.
