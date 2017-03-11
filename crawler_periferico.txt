@@ -5,5 +5,4 @@ Funcao de transcrever termos de pesquisa
 
 ordenar listas por num de linhas :p
 
-sgdgs
 mais um pra praticar um pouco
