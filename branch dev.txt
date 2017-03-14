@@ -3,3 +3,5 @@ Branch iniciada
 inserindo codigo adoidado
 task 01 concluída
 ^^
+task02 adcionada
+terminou o sprint, bora dar merge
